@@ -1,0 +1,1 @@
+ini view didalam root folder view
